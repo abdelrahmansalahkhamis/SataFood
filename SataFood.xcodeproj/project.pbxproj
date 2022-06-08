@@ -118,6 +118,15 @@
 			path = VMTests;
 			sourceTree = "<group>";
 		};
+		A422215328513C37007DD47F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A49A0EE9284FE2C100E8BDA1 /* ReusableViews */,
+				A49A0EE8284FE2B200E8BDA1 /* Cells */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		A49A0EE8284FE2B200E8BDA1 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
@@ -196,6 +205,7 @@
 		A4B4B3B5284E8E50004AEE25 /* SataFood */ = {
 			isa = PBXGroup;
 			children = (
+				A422215328513C37007DD47F /* Views */,
 				A49A0EF9284FEA4F00E8BDA1 /* ViewModels */,
 				A49A0EF0284FE38500E8BDA1 /* Models */,
 				A49A0EEB284FE2ED00E8BDA1 /* Utilities */,
@@ -206,8 +216,6 @@
 				A4B4B3C1284E8E54004AEE25 /* LaunchScreen.storyboard */,
 				A4B4B3C4284E8E54004AEE25 /* Info.plist */,
 				A4B4B3E6284E8EEF004AEE25 /* HomeVC.swift */,
-				A49A0EE8284FE2B200E8BDA1 /* Cells */,
-				A49A0EE9284FE2C100E8BDA1 /* ReusableViews */,
 			);
 			path = SataFood;
 			sourceTree = "<group>";
