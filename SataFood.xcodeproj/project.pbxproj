@@ -58,6 +58,7 @@
 		A40508EC28513A8400FB472B /* NewOffersListVMTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewOffersListVMTest.swift; sourceTree = "<group>"; };
 		A42000D1284F52CC00A150AB /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
 		A42000D3284F9ACF00A150AB /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		A422215428513CD1007DD47F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A49A0EEC284FE30600E8BDA1 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A49A0EEE284FE32100E8BDA1 /* NetworkServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkServices.swift; sourceTree = "<group>"; };
 		A49A0EF3284FE66900E8BDA1 /* HomeElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeElements.swift; sourceTree = "<group>"; };
@@ -185,6 +186,7 @@
 		A4B4B3AA284E8E4F004AEE25 = {
 			isa = PBXGroup;
 			children = (
+				A422215428513CD1007DD47F /* README.md */,
 				A4B4B3B5284E8E50004AEE25 /* SataFood */,
 				A4B4B3CC284E8E55004AEE25 /* SataFoodTests */,
 				A4B4B3D6284E8E55004AEE25 /* SataFoodUITests */,
