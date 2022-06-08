@@ -18,3 +18,8 @@
 
 * I have implemented compositional layout to enable scrolling in both directions (verticaly and horizontaly) 
 
+## Screenshot
+
+
+<img width="360" alt="Screen Shot 2022-06-08 at 10 34 46 PM" src="https://user-images.githubusercontent.com/33458355/172712785-7e02753b-ca65-45c2-a126-3321a08cb34a.png">
+
